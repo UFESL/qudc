@@ -1,0 +1,9 @@
+qudit a 3
+qudit b 2
+
+h a
+h b
+
+c a b
+
+h a
